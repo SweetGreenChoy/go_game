@@ -56,7 +56,6 @@
         1.2 Disconnected [ W+D, B+D ]
         1.3 Give up [ W+G, B+G ]
         1.4 Score [ W+S(number), B+S ]
-        1.5 Judge [ W+J, B+J ]
       2. SGF
       3. Replay
       
