@@ -5,6 +5,14 @@
 - - -
 <h2>Dependencies</h2>
 <p>
+Server<br>
+UI<br>
+  React<br>
+Game Logic<br>
+  JS<br>
+</p>
+
+<p>
   List of dependency for project
 </p>
 <h2>Construction</h2>
